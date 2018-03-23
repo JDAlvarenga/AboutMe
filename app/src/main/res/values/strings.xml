@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="app_label">About Me</string>
+    <string name="name">Jaime Alvarenga</string>
+    <string name="major">Ing. Informática</string>
+    <string name="iv_description">Personal Picture</string>
+</resources>

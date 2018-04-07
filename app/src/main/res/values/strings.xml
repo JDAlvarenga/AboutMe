@@ -4,4 +4,8 @@
     <string name="name">Jaime Alvarenga</string>
     <string name="major">Ing. Informática</string>
     <string name="iv_description">Personal Picture</string>
+    <string name="txt_gitaccount">JDAlvarenga</string>
+    <string name="txt_ucaId">00069216</string>
+    <string name="txt_facebookaccount">jd.alvarenga.9</string>
+    <string name="txt_phonenumber">(+503) 73033815</string>
 </resources>

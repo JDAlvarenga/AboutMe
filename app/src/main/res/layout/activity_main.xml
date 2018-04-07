@@ -68,7 +68,7 @@
                     android:layout_height="wrap_content"
                     android:textSize="16sp"
 
-                    android:text="JDAlvarenga" />
+                    android:text="@string/txt_gitaccount" />
 
             </LinearLayout>
 
@@ -91,7 +91,7 @@
                     android:layout_height="wrap_content"
                     android:textSize="16sp"
 
-                    android:text="00069216" />
+                    android:text="@string/txt_ucaId" />
 
             </LinearLayout>
 
@@ -124,7 +124,7 @@
                     android:layout_height="wrap_content"
                     android:textSize="16sp"
 
-                    android:text="jd.alvarenga.9" />
+                    android:text="@string/txt_facebookaccount" />
 
             </LinearLayout>
 
@@ -147,13 +147,24 @@
                     android:layout_height="wrap_content"
                     android:textSize="16sp"
 
-                    android:text="(+503) 73033815" />
+                    android:text="@string/txt_phonenumber" />
 
             </LinearLayout>
             
         </LinearLayout>
 
+
     </LinearLayout>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:onClick="shareInfo"
+        android:textColor="#fff"
+
+
+        android:text="Share"/>
 
 
     <TextView
